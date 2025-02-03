@@ -1,5 +1,5 @@
 # idle-term
-This library gives some terminal features for IDLE's shell.
+This library provides some terminal features for IDLE's shell.
 Some features are:
 - "\b" and "\r" characters will be processed so progressbars which show information like progress percentage will finally work
 - _print_fancy_ function can be used to print with color, font and style
