@@ -4,6 +4,7 @@ Some features are:
 - "\b" and "\r" characters will be processed so progressbars which show information like progress percentage will finally work
 - _print_fancy_ function can be used to print with color, font and style
 - _clear_ function can be used to clear all outputs
+  
 Warning: The library isn't compatible with environments other than IDLE. Not even with the default shell of the system.
 
 # Escape Characters
