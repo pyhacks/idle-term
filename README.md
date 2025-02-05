@@ -7,6 +7,14 @@ Some features are:
   
 Warning: The library isn't compatible with environments other than IDLE. Not even with the default shell of the system.
 
+# Installation
+```pip install idle-term```
+
+then you can import with
+```python
+import idle_term
+```
+
 # Escape Characters
 Once you import the library, you don't have to do anything else and can immediately start using escape characters "\b", "\r", "\a" in your print and idle_term.print_fancy calls. These are the only escape characters supported. For things like colored output, use _print_fancy_.
 
